@@ -25,7 +25,7 @@ author:
   avatar           : "images/profile.jpeg"
   bio              : ""
   location         : "Hong Kong SAR, China"
-  employer         : "HKUST"
+  employer         : # "HKUST"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=u8E2VQUAAAAJ"
   email            : "ziyanguo1031@gmail.com"
