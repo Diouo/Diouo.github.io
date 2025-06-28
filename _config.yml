@@ -23,9 +23,9 @@ repository               : "Diouo/Diouo.github.io"
 author:
   name             : "Ziyan Guo (郭子彦)"
   avatar           : "images/profile.jpeg"
-  bio              : "PhD student @ HKUST"
+  bio              : ""
   location         : "Hong Kong SAR, China"
-  employer         :
+  employer         : "HKUST"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=u8E2VQUAAAAJ"
   email            : "ziyanguo1031@gmail.com"
