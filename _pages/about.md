@@ -16,5 +16,3 @@ redirect_from:
 {% include_relative includes/honers.md %}
 
 {% include_relative includes/others.md %}
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=iQs8JpcCPq1S8ry3hEeR-xH_IrDOfV8XmrYC5ZIFSIs&cl=ffffff&w=a"></script>
