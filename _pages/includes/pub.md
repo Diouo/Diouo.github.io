@@ -1,5 +1,5 @@
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 ## Conferences
 - ``ICCV 2025`` [MotionLab: Unified Human Motion Generation and Editing via the Motion-Condition-Motion Paradigm](https://diouo.github.io/motionlab.github.io/), **Ziyan Guo**, Zeyu Hu, Na Zhao, De Wen Soh
